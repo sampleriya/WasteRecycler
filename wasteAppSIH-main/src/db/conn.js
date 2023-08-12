@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 // mongoose.connect("mongodb://localhost:27017/eco",{
 mongoose
   .connect(
-    "mongodb+srv://admin:fP6tKScVcL98ZRdP@cluster0.lhnaw.mongodb.net/Ecommerce",
+    "mongodb+srv://riyagarg123:Ldt1oXmFeWIrKboh@cluster0.cxfu56w.mongodb.net/Ecommerce",
     {}
   )
   .then(() => {
