@@ -166,7 +166,7 @@ app.post("/registercu", async (req, res) => {
     let mailTransporter = nodemailer.createTransport({
       service: "gmail",
       auth: {
-        user: "tyagiujjawal9@gmail.com",
+        user: "riyagarg20034@gmail.com",
         pass: "yeycartlilpbbtui",
       },
     });
